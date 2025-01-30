@@ -1,0 +1,7 @@
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe.config
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.exe
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\bin\Debug\ConsoleHelloWorld.pdb
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.exe
+C:\Users\student\Documents\Visual Studio 2022\Projects\ConsoleHelloWorld\obj\Debug\ConsoleHelloWorld.pdb
